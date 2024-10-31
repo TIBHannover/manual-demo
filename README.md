@@ -2,7 +2,7 @@
 
 A Book Style intended for upload to Fidus Writer.
 
-Style name: Manual001
+Style name: Haflinger
 
 Example use: [Sample Content](https://TIBHannover.github.io/manual-demo/)
 
