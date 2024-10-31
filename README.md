@@ -4,7 +4,7 @@ A Book Style intended for upload to Fidus Writer.
 
 Style name: Manual001
 
-Example use: [A Manual Style - Sample Content](https://mrchristian.github.io/Manual001-Fidus-Style/)
+Example use: [Sample Content](https://TIBHannover.github.io/manual-demo/)
 
 Use: The style is intended for manuals, handbooks, guides, etc.
 
@@ -34,4 +34,4 @@ The style has been set in English. Currently this mean two document labels are h
    - Table of Contents
    - Page (Page number labels)
 
-To change these to _Inhaltsverzeichnis_ and _Blatt_, for exmaple in Germna, these need to change in the CSS and a separate style made for that language.  
+To change these to _Inhaltsverzeichnis_ and _Blatt_, for exmaple in German, these need to change in the CSS and a separate style made for that language.  
