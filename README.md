@@ -1,4 +1,4 @@
-# Demo Style for Manuals
+# Book Style for use with Fidus Writer or other CSS Paged Media
 
 A Book Style intended for upload to Fidus Writer.
 
